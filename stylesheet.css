@@ -1,3 +1,6 @@
-.sc-launcher {
-  display : block;
+.sc-header-image{
+    background-image: url("./chatlogo.jpg");
+}
+.sc-header-image img{
+   display: none;
 }
