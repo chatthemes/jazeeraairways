@@ -4,6 +4,6 @@
 .sc-header-image img{
    display: none;
 }
-.sc-chat-window opened {
+.sc-chat-window.opened {
     background: #0000;
 }
